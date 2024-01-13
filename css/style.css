@@ -90,3 +90,9 @@ body {
 .container.active .qrCode {
     opacity: 1;
 } 
+
+@media(max-width:722px){
+    .container {
+        width: 350px;
+    }
+}
